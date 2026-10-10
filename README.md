@@ -170,7 +170,7 @@ This is an educational analysis tool, not investment advice.
 ## Source code
 
 The code, the 701 Vitest and 77 pytest tests, the CI workflow and the full reference (every formula, data source and
-endpoint) are in a private repository. Access for recruiters and reviewers is available on request.
+endpoint) are in a private repository. Access for recruiters and reviewers is available on request: message me on [LinkedIn](https://www.linkedin.com/in/zuzannaczernicka/).
 
 ## License
 
